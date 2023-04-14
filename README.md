@@ -1,2 +1,6 @@
 # TCP-Socket_control_USR-WIFI232
-Use Python to control USR-WIFI232-B2 block
+It is a project by GW SmartGrid Laboratory 
+
+Language: Python
+Hardware: USR-WIFI232-B2 module
+
