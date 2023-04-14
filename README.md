@@ -1,9 +1,9 @@
 # TCP-Socket_control_USR-WIFI232
 It is a project by GW SmartGrid Laboratory 
 
-Language: Python
+The prototype of the diorama is made by [RJ Models](https://www.rjmodels.com/).
 
-Hardware: USR-WIFI232-B2 module
+The module used to commuciated with diorama and computer is USR-WIFI232-B2.
 
 This is the image for the diorama mock-up.
 
